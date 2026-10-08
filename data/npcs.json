@@ -1,0 +1,422 @@
+{
+  "schema": "bloom-npcs-v1",
+  "source": "https://primerascripto.com/en/sunflower-land/npc-deliveries/",
+  "updatedNote": "Catalogo de referencia consultado em 2026-10-08; nao representa os pedidos atuais da fazenda.",
+  "npcs": [
+    {
+      "name": "Grimbly",
+      "type": "FLOWER",
+      "level": 10,
+      "averageReward": 0.4,
+      "orders": [
+        [
+          2,
+          "Boiled Eggs"
+        ],
+        [
+          1,
+          "Bumpkin Salad"
+        ],
+        [
+          1,
+          "Club Sandwich"
+        ],
+        [
+          3,
+          "Earthworm"
+        ],
+        [
+          12,
+          "Mashed Potato"
+        ],
+        [
+          1,
+          "Popcorn"
+        ],
+        [
+          5,
+          "Pumpkin Soup"
+        ],
+        [
+          5,
+          "Reindeer Carrot"
+        ],
+        [
+          1,
+          "Roast Veggies"
+        ],
+        [
+          1,
+          "Tofu Scramble"
+        ]
+      ]
+    },
+    {
+      "name": "Grimtooth",
+      "type": "FLOWER",
+      "level": 12,
+      "averageReward": 0.45,
+      "orders": [
+        [
+          3,
+          "Anchovy"
+        ],
+        [
+          1,
+          "Blue Cosmos"
+        ],
+        [
+          1,
+          "Blueberry Jam"
+        ],
+        [
+          3,
+          "Boiled Eggs"
+        ],
+        [
+          10,
+          "Bumpkin Broth"
+        ],
+        [
+          3,
+          "Butterflyfish"
+        ],
+        [
+          1,
+          "Fermented Carrots"
+        ],
+        [
+          2,
+          "Mushroom Soup"
+        ],
+        [
+          5,
+          "Roast Veggies"
+        ],
+        [
+          2,
+          "Sea Bass"
+        ],
+        [
+          1,
+          "Sunflower Cake"
+        ]
+      ]
+    },
+    {
+      "name": "Grubnuk",
+      "type": "FLOWER",
+      "level": 16,
+      "averageReward": 0.6,
+      "orders": [
+        [
+          3,
+          "Anchovy"
+        ],
+        [
+          1,
+          "Blue Cosmos"
+        ],
+        [
+          5,
+          "Fruit Salad"
+        ],
+        [
+          1,
+          "Kale Omelette"
+        ],
+        [
+          4,
+          "Kale Stew"
+        ],
+        [
+          1,
+          "Pancakes"
+        ],
+        [
+          4,
+          "Parrotfish"
+        ],
+        [
+          1,
+          "Purple Cosmos"
+        ],
+        [
+          1,
+          "Radish Cake"
+        ],
+        [
+          1,
+          "Red Pansy"
+        ],
+        [
+          3,
+          "Red Wiggler"
+        ]
+      ]
+    },
+    {
+      "name": "Gambit",
+      "type": "FLOWER",
+      "level": 25,
+      "averageReward": 0.9,
+      "orders": [
+        [
+          1,
+          "Antipasto"
+        ],
+        [
+          1,
+          "Beetroot Blaze"
+        ],
+        [
+          1,
+          "Fried Tofu"
+        ],
+        [
+          1,
+          "Rapid Roast"
+        ],
+        [
+          1,
+          "Shroom Syrup"
+        ],
+        [
+          1,
+          "Steamed Red Rice"
+        ],
+        [
+          1,
+          "Tofu Scramble"
+        ]
+      ]
+    },
+    {
+      "name": "Gordo",
+      "type": "FLOWER",
+      "level": 30,
+      "averageReward": 1,
+      "orders": [
+        [
+          2,
+          "Banana Blast"
+        ],
+        [
+          1,
+          "Bumpkin ganoush"
+        ],
+        [
+          3,
+          "Bumpkin Salad"
+        ],
+        [
+          1,
+          "Cabbage Cake"
+        ],
+        [
+          4,
+          "Cauliflower Burger"
+        ],
+        [
+          1,
+          "Eggplant Cake"
+        ],
+        [
+          1,
+          "Goblin Brunch"
+        ],
+        [
+          1,
+          "Parsnip Cake"
+        ],
+        [
+          3,
+          "Power Smoothie"
+        ],
+        [
+          1,
+          "Wheat Cake"
+        ]
+      ]
+    },
+    {
+      "name": "Guria",
+      "type": "FLOWER",
+      "level": 40,
+      "averageReward": 1.23,
+      "orders": [
+        [
+          5,
+          "Anchovy"
+        ],
+        [
+          5,
+          "Anchovy"
+        ],
+        [
+          1,
+          "Blue Balloon Flower"
+        ],
+        [
+          1,
+          "Blue Balloon Flower"
+        ],
+        [
+          3,
+          "Butterflyfish"
+        ],
+        [
+          1,
+          "Mahi Mahi"
+        ],
+        [
+          3,
+          "Napoleanfish"
+        ],
+        [
+          3,
+          "Olive Flounder"
+        ],
+        [
+          1,
+          "Purple Daffodil"
+        ],
+        [
+          1,
+          "Purple Daffodil"
+        ],
+        [
+          1,
+          "Red Balloon Flower"
+        ],
+        [
+          1,
+          "Red Balloon Flower"
+        ],
+        [
+          5,
+          "Tuna"
+        ]
+      ]
+    },
+    {
+      "name": "Betty",
+      "type": "COINS",
+      "level": 1,
+      "orderCount": 157
+    },
+    {
+      "name": "Blacksmith",
+      "type": "COINS",
+      "level": 1,
+      "orderCount": 32
+    },
+    {
+      "name": "Peggy",
+      "type": "COINS",
+      "level": 3,
+      "orderCount": 51
+    },
+    {
+      "name": "Corale",
+      "type": "COINS",
+      "level": 7,
+      "orderCount": 50
+    },
+    {
+      "name": "Tango",
+      "type": "COINS",
+      "level": 13,
+      "orderCount": 99
+    },
+    {
+      "name": "Old Salty",
+      "type": "COINS",
+      "level": 15,
+      "orderCount": 10
+    },
+    {
+      "name": "Victoria",
+      "type": "COINS",
+      "level": 30,
+      "orderCount": 17
+    },
+    {
+      "name": "Pumpkin' Pete",
+      "type": "TICKETS",
+      "level": 5,
+      "orderCount": 10,
+      "ticketReward": 1
+    },
+    {
+      "name": "Bert",
+      "type": "TICKETS",
+      "level": 8,
+      "orderCount": 9,
+      "ticketReward": 2
+    },
+    {
+      "name": "Finley",
+      "type": "TICKETS",
+      "level": 12,
+      "orderCount": 9,
+      "ticketReward": 2
+    },
+    {
+      "name": "Raven",
+      "type": "TICKETS",
+      "level": 14,
+      "orderCount": 9,
+      "ticketReward": 4
+    },
+    {
+      "name": "Miranda",
+      "type": "TICKETS",
+      "level": 15,
+      "orderCount": 5,
+      "ticketReward": 2
+    },
+    {
+      "name": "Finn",
+      "type": "TICKETS",
+      "level": 16,
+      "orderCount": 8,
+      "ticketReward": 5
+    },
+    {
+      "name": "Pharaoh",
+      "type": "TICKETS",
+      "level": 17,
+      "orderCount": 9,
+      "ticketReward": 6
+    },
+    {
+      "name": "Cornwell",
+      "type": "TICKETS",
+      "level": 18,
+      "orderCount": 8,
+      "ticketReward": 3
+    },
+    {
+      "name": "Timmy",
+      "type": "TICKETS",
+      "level": 20,
+      "orderCount": 10,
+      "ticketReward": 5
+    },
+    {
+      "name": "Tywin",
+      "type": "TICKETS",
+      "level": 22,
+      "orderCount": 4,
+      "ticketReward": 10
+    },
+    {
+      "name": "Jester",
+      "type": "TICKETS",
+      "level": 26,
+      "orderCount": 8,
+      "ticketReward": 4
+    }
+  ]
+}

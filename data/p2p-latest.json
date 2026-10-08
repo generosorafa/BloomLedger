@@ -1,0 +1,9 @@
+{
+  "schema": "bloom-market-v1",
+  "currency": "FLOWER",
+  "source": "Not configured - no current quote",
+  "fetchedAt": null,
+  "marketUpdatedAt": null,
+  "prices": {},
+  "offers": {}
+}
